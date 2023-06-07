@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".bookmanager.BookMainActivity">
+    <TextView
+        android:id="@+id/btn_createDB"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:text="创建数据库"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:background="@drawable/sel_text_bg" />
+    <TextView
+        android:id="@+id/btn_addBook"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:text="添加图书"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:background="@drawable/sel_text_bg" />
+
+    <TextView
+        android:id="@+id/btn_listBook"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:text="查看图书列表"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:background="@drawable/sel_text_bg" />
+    <TextView
+        android:id="@+id/btn_updateDB"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:text="清空数据库"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:background="@drawable/sel_text_bg" />
+
+
+
+
+</LinearLayout>

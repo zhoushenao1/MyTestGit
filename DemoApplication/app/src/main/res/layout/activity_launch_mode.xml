@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.zsa.demoapplication.TitleLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/startStandardActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="启动模式：Standard" />
+    <Button
+        android:id="@+id/startSingleTopActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="启动模式：SingleTop" />
+    <Button
+        android:id="@+id/startSingleTaskActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="启动模式：SingleTask" />
+    <Button
+        android:id="@+id/startSingleInstanceActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="启动模式：SingleInstance" />
+</LinearLayout>
