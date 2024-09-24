@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89cc6920-7ca8-45b0-9e77-0fca8d75694a" name="Changes" comment="测试提交" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="KEEP" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2WstNqSnmrbplErQWX9jdeROU9z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "git-widget-placeholder": "dev",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/zjs/MyTestGit",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89cc6920-7ca8-45b0-9e77-0fca8d75694a" name="Changes" comment="" />
+      <created>1697533077774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697533077774</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1.测试">
+      <created>1697628001406</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697628001406</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1.测试">
+      <created>1697628043725</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697628043725</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1.main测试">
+      <created>1697628077262</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697628077262</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1.main测试">
+      <created>1697628265151</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697628265151</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1.main测试2">
+      <created>1697628276799</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697628276799</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1.dev测试2">
+      <created>1697628321653</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697628321653</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1.dev测试3">
+      <created>1697628370399</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697628370400</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1.main测试1">
+      <created>1697767002244</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697767002244</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1.main测试2">
+      <created>1697767016236</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697767016236</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1.dev测试1">
+      <created>1697767051599</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1697767051599</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1.dev测试2">
+      <created>1697767059602</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1697767059602</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1.dev测试3">
+      <created>1697767074168</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1697767074168</updated>
+    </task>
+    <task id="LOCAL-00013" summary="1.main测试3">
+      <created>1697767444001</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1697767444001</updated>
+    </task>
+    <task id="LOCAL-00014" summary="1.main测试4">
+      <created>1697767457088</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1697767457088</updated>
+    </task>
+    <task id="LOCAL-00015" summary="1.dev测试1">
+      <created>1697767543943</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1697767543943</updated>
+    </task>
+    <task id="LOCAL-00016" summary="1.dev测试2">
+      <created>1697767554244</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1697767554244</updated>
+    </task>
+    <task id="LOCAL-00017" summary="1.dev测试3">
+      <created>1697767568363</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1697767568363</updated>
+    </task>
+    <task id="LOCAL-00018" summary="1.main测试1">
+      <created>1697767914377</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1697767914377</updated>
+    </task>
+    <task id="LOCAL-00019" summary="1.main测试2">
+      <created>1697767927189</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1697767927189</updated>
+    </task>
+    <task id="LOCAL-00020" summary="1.dev测试1">
+      <created>1697767951069</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1697767951069</updated>
+    </task>
+    <task id="LOCAL-00021" summary="1.dev测试2">
+      <created>1697767990677</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1697767990677</updated>
+    </task>
+    <task id="LOCAL-00022" summary="1.dev测试3">
+      <created>1697768071396</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1697768071396</updated>
+    </task>
+    <task id="LOCAL-00023" summary="1.main1">
+      <created>1700818228130</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1700818228130</updated>
+    </task>
+    <task id="LOCAL-00024" summary="1.main2">
+      <created>1700818244476</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1700818244476</updated>
+    </task>
+    <task id="LOCAL-00025" summary="1.dev1">
+      <created>1700818282170</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1700818282170</updated>
+    </task>
+    <task id="LOCAL-00026" summary="1.dev2">
+      <created>1700818297014</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1700818297014</updated>
+    </task>
+    <task id="LOCAL-00027" summary="main test convert">
+      <option name="closed" value="true" />
+      <created>1715135215422</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1715135215422</updated>
+    </task>
+    <task id="LOCAL-00028" summary="main test convert gg">
+      <option name="closed" value="true" />
+      <created>1715135240530</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1715135240530</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Revert &quot;main test convert&quot;&#10;&#10;This reverts commit f31e69c9">
+      <option name="closed" value="true" />
+      <created>1715135297347</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1715135297347</updated>
+    </task>
+    <task id="LOCAL-00030" summary="main test convert 2">
+      <option name="closed" value="true" />
+      <created>1715135384960</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1715135384960</updated>
+    </task>
+    <task id="LOCAL-00031" summary="main test convert gg2">
+      <option name="closed" value="true" />
+      <created>1715135467847</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1715135467847</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Revert &quot;main test convert 2&quot;&#10;&#10;This reverts commit d3049b47">
+      <option name="closed" value="true" />
+      <created>1715135507667</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1715135507667</updated>
+    </task>
+    <task id="LOCAL-00033" summary="reset--soft">
+      <option name="closed" value="true" />
+      <created>1716442976486</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1716442976486</updated>
+    </task>
+    <task id="LOCAL-00034" summary="reset--soft">
+      <option name="closed" value="true" />
+      <created>1716442993850</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1716442993850</updated>
+    </task>
+    <task id="LOCAL-00035" summary="reset--soft">
+      <option name="closed" value="true" />
+      <created>1716443018861</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1716443018861</updated>
+    </task>
+    <task id="LOCAL-00036" summary="reset--soft">
+      <option name="closed" value="true" />
+      <created>1716443069792</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1716443069792</updated>
+    </task>
+    <task id="LOCAL-00037" summary="测试提交">
+      <option name="closed" value="true" />
+      <created>1716443114994</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1716443114994</updated>
+    </task>
+    <task id="LOCAL-00038" summary="测试提交">
+      <option name="closed" value="true" />
+      <created>1716443196243</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1716443196243</updated>
+    </task>
+    <task id="LOCAL-00039" summary="测试提交">
+      <option name="closed" value="true" />
+      <created>1716443333543</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1716443333543</updated>
+    </task>
+    <task id="LOCAL-00040" summary="测试提交">
+      <option name="closed" value="true" />
+      <created>1716443346907</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1716443346907</updated>
+    </task>
+    <task id="LOCAL-00041" summary="测试提交">
+      <option name="closed" value="true" />
+      <created>1716443373011</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1716443373011</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="128" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="150" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.测试" />
+    <MESSAGE value="1.main测试" />
+    <MESSAGE value="1.main测试3" />
+    <MESSAGE value="1.main测试4" />
+    <MESSAGE value="1.main测试1" />
+    <MESSAGE value="1.main测试2" />
+    <MESSAGE value="1.dev测试1" />
+    <MESSAGE value="1.dev测试2" />
+    <MESSAGE value="1.dev测试3" />
+    <MESSAGE value="1.main1" />
+    <MESSAGE value="1.main2" />
+    <MESSAGE value="1.dev1" />
+    <MESSAGE value="1.dev2" />
+    <MESSAGE value="1.dev3" />
+    <MESSAGE value="1.main" />
+    <MESSAGE value="main test convert" />
+    <MESSAGE value="main test convert gg" />
+    <MESSAGE value="Revert &quot;main test convert&quot;&#10;&#10;This reverts commit f31e69c9" />
+    <MESSAGE value="main test convert 2" />
+    <MESSAGE value="main test convert gg2" />
+    <MESSAGE value="Revert &quot;main test convert 2&quot;&#10;&#10;This reverts commit d3049b47" />
+    <MESSAGE value="reset--soft" />
+    <MESSAGE value="测试提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试提交" />
+  </component>
+</project>
